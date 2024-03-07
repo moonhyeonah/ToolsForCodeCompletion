@@ -2,6 +2,7 @@
 
 read_datafile.py
 * Assign the filename you want to parse to 'infile'.
+* The current encoding is UTF-8.
 
 
 ### Example
